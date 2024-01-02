@@ -1,0 +1,99 @@
+*{
+  font-family:'Helvetica Neue', sans-serif;
+}
+body{
+  background-color: #141414;
+}
+#smile{
+  height:100%;
+  width:100%;
+  display: inline-block;
+  border-radius: 4%;
+}
+#who{
+  color:#fff;
+  font-size: 3.5vw;
+  font-weight: unset;
+  width: 500px;
+  font-family:sans-serif;
+   position:absolute;
+  top:20%;
+  left:36%;
+  margin:21.180px 0px 21.180px 0px;
+}
+#blue{
+  height:10vw;
+  width:10vw;
+  position: absolute;
+  top: 36%;
+  left:33%; 
+}
+#stripes4{
+  display: inline-block;
+  border-radius: 4%;
+}
+#rainbow{
+  height: 10vw;
+  width: 10vw;
+  position: absolute;
+  top: 36%;
+  left: 46%;
+}
+#gcircle{
+  color:black;
+  text-align:center;
+  -webkit-text-stroke-width: 10px;
+  font-size: 80px;
+  height: 6vw;
+  width: 6vw;
+  position:absolute;
+  top:41%;
+  left:59%;
+  background-color: grey;
+  border-radius: 50%;  
+}
+#vinod{
+  color: grey;
+  text-align: center;
+  font-size: 1.3vw;
+  height: 90.123px;
+  width: 21.123px;
+  position: absolute;
+  top: 57%;
+  left: 36%;
+  margin:7.05px 0px 7.05px 0px;
+}
+#children{
+  color: grey;
+  text-align: center;
+  font-size: 1.3vw;
+  height: 90.123px;
+  width: 21.123px;
+  position: absolute;
+  top: 57%;
+  left: 48.5%;
+  margin:7.05px 0px 7.05px 0px;  
+}
+#addprofile{
+  color: grey;
+  text-align: center;
+  font-size: 1.3vw;
+  height: 96.123px;
+  width: 100.123px;
+  position: absolute;
+  top: 57%;
+  left: 58.5%; 
+}
+#manageprofile{
+  color: grey;
+  text-align: center;
+  border: 1px solid grey;
+  text-decoration:none;
+  font-size: 1.3vw;
+  height: 40.123px;
+  width: 180.123px;
+  position: absolute;
+  top: 72%;
+  left: 45.5%;  
+  padding-top:10px;
+}
